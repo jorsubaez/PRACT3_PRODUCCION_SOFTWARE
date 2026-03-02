@@ -1,6 +1,7 @@
 # Presentación de la práctica
 
-[PS - PRÁCTICA DEVOPS.pdf](https://github.com/user-attachments/files/25687777/PS.-.PRACTICA.DEVOPS.pdf)
+[PRESENTACIÓN PRÁCTICA DEVOPS](https://github.com/user-attachments/files/25688169/PS.-.PRACTICA.DEVOPS.ARREGLADA.pdf)
+
 
 # Instrucciones para ejecutar el repositorio
 
