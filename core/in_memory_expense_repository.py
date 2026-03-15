@@ -14,7 +14,9 @@ class InMemoryExpenseRepository(ExpenseRepository):
         self._expenses.append(expense)
 
     def remove(self, expense_id: int) -> None:
-        self._expenses.remove(self.get_by_id(expense_id))
+        remove_expense = self.get_by_id(expense_id)
+        if remove_expense is not None:
+            self._expenses.remove(remove_expense)
         return
 
     def get_by_id(self, expense_id: int) -> Expense | None:
